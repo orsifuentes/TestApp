@@ -1,0 +1,5 @@
+Hi, I've hit a wall trying to use ADFS 3.0 in a .net core project and ran into the exact same issue of not being able to handle binary security tokens. 
+Is there a way you can help me out with some guidance on how you implemented the class you posted in: 
+https://github.com/aspnet/Security/issues/1918
+I don't mind if you charge me a consulting fee for your time. My team is new with .net core and adfs and it's been a struggle trying to get it to work.
+
